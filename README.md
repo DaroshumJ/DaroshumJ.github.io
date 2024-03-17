@@ -1,2 +1,2 @@
-[visit my website] https://daroshumj.github.io/
+ https://daroshumj.github.io/
  
